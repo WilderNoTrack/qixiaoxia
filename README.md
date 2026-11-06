@@ -7,9 +7,8 @@
 
 ## 演示视频
 
-113 秒，含宣传片与真机 1080p 逐场景录屏：
-
-**https://github.com/WilderNoTrack/qixiaoxia/releases/latest/download/qixiaoxia-demo-113s.mp4**
+113 秒，含宣传片与真机 1080p 逐场景录屏（宣传片部分为 AI 生成画面，界面部分为真实录屏，片内已标注）。
+视频体积 62 MB，不放在仓库里；需要时可直接联系我，或见简历投递邮件附件。
 
 ## 这个项目里与本岗位相关的部分：本机语音链路
 
